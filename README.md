@@ -11,7 +11,7 @@
 <a  href="https://twitter.com/_KevDev_"  target="_blank"><img src="https://img.shields.io/badge/Twitter-D02929?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
+
 
 <h2>About me</h2>
 <ul>
