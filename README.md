@@ -1,6 +1,6 @@
 # KevDev
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Kev </h1>
-<h3 aling="center">Software Engineering | Love the programming
+<h3 aling="center">Software Engineering 
 
 
 
@@ -18,7 +18,6 @@
   <li>20 years</li>
   <li>Colombian</li>
   <li>Competitive Programmer</li>
-  <li>Experience teaching programming to different students</li>
   <li>English and Spanish</li>
 <ul>
   
